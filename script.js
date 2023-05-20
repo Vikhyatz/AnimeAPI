@@ -91,7 +91,8 @@ let search = document.getElementById('search')
 form.addEventListener('submit', (e) => {
 
 	let a = search.value
-
+	
+search.value = ''
 	searchAnime(a);
 
 	e.preventDefault();
