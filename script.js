@@ -6,7 +6,7 @@ const options = {
 
 	headers: {
 
-		'X-RapidAPI-Key': '9ba9e80273mshf5a683d7907af13p17e0f8jsn3f366585ddeb',
+		'X-RapidAPI-Key': '388afd08a9mshaae2b587bc79db3p1f532ejsnfa6dcc07fb0d',
 
 		'X-RapidAPI-Host': 'anime-db.p.rapidapi.com'
 
